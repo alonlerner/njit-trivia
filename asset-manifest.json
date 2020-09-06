@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/njit-trivia/static/css/main.2a85100b.chunk.css",
-    "main.js": "/njit-trivia/static/js/main.9517c3ad.chunk.js",
-    "main.js.map": "/njit-trivia/static/js/main.9517c3ad.chunk.js.map",
+    "main.js": "/njit-trivia/static/js/main.73382eb0.chunk.js",
+    "main.js.map": "/njit-trivia/static/js/main.73382eb0.chunk.js.map",
     "runtime-main.js": "/njit-trivia/static/js/runtime-main.2222244e.js",
     "runtime-main.js.map": "/njit-trivia/static/js/runtime-main.2222244e.js.map",
     "static/js/2.2df6306e.chunk.js": "/njit-trivia/static/js/2.2df6306e.chunk.js",
     "static/js/2.2df6306e.chunk.js.map": "/njit-trivia/static/js/2.2df6306e.chunk.js.map",
     "index.html": "/njit-trivia/index.html",
-    "precache-manifest.3c7b2b3fe039fb60932c3f0e818e6c2d.js": "/njit-trivia/precache-manifest.3c7b2b3fe039fb60932c3f0e818e6c2d.js",
+    "precache-manifest.e9565da0146565ac4320ac24a9039468.js": "/njit-trivia/precache-manifest.e9565da0146565ac4320ac24a9039468.js",
     "service-worker.js": "/njit-trivia/service-worker.js",
     "static/css/main.2a85100b.chunk.css.map": "/njit-trivia/static/css/main.2a85100b.chunk.css.map",
     "static/js/2.2df6306e.chunk.js.LICENSE.txt": "/njit-trivia/static/js/2.2df6306e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2222244e.js",
     "static/js/2.2df6306e.chunk.js",
     "static/css/main.2a85100b.chunk.css",
-    "static/js/main.9517c3ad.chunk.js"
+    "static/js/main.73382eb0.chunk.js"
   ]
 }
