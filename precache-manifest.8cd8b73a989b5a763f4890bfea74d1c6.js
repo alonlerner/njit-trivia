@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c988a744f25bffbceb523f0e7e9423dd",
+    "revision": "d401065ef4833606ffcb0bf7292b3908",
     "url": "/njit-trivia/index.html"
   },
   {
-    "revision": "0a658292d5908c4c153a",
+    "revision": "8d257d9e51ac601efaae",
     "url": "/njit-trivia/static/css/main.65efd592.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/njit-trivia/static/js/2.2df6306e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a658292d5908c4c153a",
-    "url": "/njit-trivia/static/js/main.73382eb0.chunk.js"
+    "revision": "8d257d9e51ac601efaae",
+    "url": "/njit-trivia/static/js/main.f6dacc90.chunk.js"
   },
   {
     "revision": "d11fbe6c7aca7dbe159e",
